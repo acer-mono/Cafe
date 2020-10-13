@@ -16,6 +16,7 @@ namespace Cafe
             try
             {
                 var meal = cafe.GetMeal(args[0]);
+                Console.WriteLine($"Menu for {args[0]}:\n");
                 Console.WriteLine(meal.GetMenu());
             }
             catch (ArgumentException ex)
