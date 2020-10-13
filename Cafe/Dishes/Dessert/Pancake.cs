@@ -1,4 +1,4 @@
-namespace PizzaMaker.Dishes.Dessert
+namespace Cafe.Dishes.Dessert
 {
     public class Pancake : IDessert
     {

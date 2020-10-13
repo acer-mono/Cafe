@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaMaker", "PizzaMaker\PizzaMaker.csproj", "{4D390DF7-9A50-4CDB-9945-3507084103E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe", "Cafe\Cafe.csproj", "{4D390DF7-9A50-4CDB-9945-3507084103E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

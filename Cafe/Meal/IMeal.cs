@@ -1,9 +1,9 @@
-using PizzaMaker.Dishes.Dessert;
-using PizzaMaker.Dishes.Drink;
-using PizzaMaker.Dishes.Main;
-using PizzaMaker.Dishes.Salad;
+using Cafe.Dishes.Dessert;
+using Cafe.Dishes.Drink;
+using Cafe.Dishes.Main;
+using Cafe.Dishes.Salad;
 
-namespace PizzaMaker.Meal
+namespace Cafe.Meal
 {
     public interface IMeal
     {

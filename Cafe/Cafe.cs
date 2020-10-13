@@ -1,7 +1,7 @@
 using System;
-using PizzaMaker.Meal;
+using Cafe.Meal;
 
-namespace PizzaMaker
+namespace Cafe
 {
     public class Cafe
     {

@@ -1,4 +1,4 @@
-namespace PizzaMaker.Dishes.Drink
+namespace Cafe.Dishes.Drink
 {
     public class Coffee : IDrink
     {

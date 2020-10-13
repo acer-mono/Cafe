@@ -1,4 +1,4 @@
-namespace PizzaMaker.Dishes.Salad
+namespace Cafe.Dishes.Salad
 {
     public interface ISalad
     {

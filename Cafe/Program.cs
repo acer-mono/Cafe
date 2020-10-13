@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PizzaMaker
+namespace Cafe
 {
     class Program
     {
